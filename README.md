@@ -1,4 +1,4 @@
-# Geekdots - now with chat!
+# Geekdots - now with chat! Suzanne was here.
 
 Run this code and point all your buds to the URL, then take witness to the heart-pounding excitement of chatting!
 Moving your mouse around also moves your dot, bubble and input box. Be the last of your geekbuds to sign in and your
